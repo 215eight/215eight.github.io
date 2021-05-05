@@ -1,0 +1,563 @@
+{
+          "skills" : {
+            "skills" : [
+
+            ]
+          },
+          "personalProjects" : [
+            {
+              "links" : [
+
+              ],
+              "startDate" : 612662400,
+              "name" : "RIBs - SwiftUI / Combine Rewrite",
+              "summary" : "Rewrite of Uber's RIB open source framework using SwiftUI and Combine instead of UIKit and RxSwift"
+            }
+          ],
+          "education" : {
+            "degrees" : [
+              {
+                "school" : {
+                  "name" : "Monterrey Institute of Technology And Higher Education",
+                  "contacts" : [
+
+                  ],
+                  "location" : {
+                    "street" : "",
+                    "city" : "Mexico City",
+                    "country" : "",
+                    "postalCode" : "",
+                    "countryCode" : "",
+                    "state" : "",
+                    "stateCode" : "CDMX"
+                  }
+                },
+                "startDate" : -63114076800,
+                "name" : "BS Computer Science",
+                "gpa" : 4,
+                "endDate" : 520560000
+              }
+            ]
+          },
+          "companyProjects" : {
+            "companies" : [
+              {
+                "contacts" : [
+
+                ],
+                "id" : 12566377814859,
+                "name" : "Chime",
+                "location" : {
+                  "street" : "",
+                  "city" : "San Francisco",
+                  "country" : "",
+                  "postalCode" : "",
+                  "countryCode" : "",
+                  "state" : "",
+                  "stateCode" : "CA"
+                }
+              },
+              {
+                "contacts" : [
+
+                ],
+                "id" : 29228978866,
+                "name" : "Uber",
+                "location" : {
+                  "street" : "",
+                  "city" : "San Francisco",
+                  "country" : "",
+                  "postalCode" : "",
+                  "countryCode" : "",
+                  "state" : "",
+                  "stateCode" : "CA"
+                }
+              },
+              {
+                "contacts" : [
+
+                ],
+                "id" : 7815649286271645,
+                "name" : "Scribd",
+                "location" : {
+                  "street" : "",
+                  "city" : "San Francisco",
+                  "country" : "",
+                  "postalCode" : "",
+                  "countryCode" : "",
+                  "state" : "",
+                  "stateCode" : "CA"
+                }
+              }
+            ],
+            "projects" : {
+              "7815649286271645" : [
+                {
+                  "endDate" : 523238400,
+                  "links" : [
+
+                  ],
+                  "companyId" : 7815649286271645,
+                  "name" : "Unlimited Audiobooks",
+                  "startDate" : 515289600,
+                  "summary" : "Subscription model was expanded to offer incremental access levels to content available in the platform. Revamped the in-app purchase components to accommodate new requirements."
+                },
+                {
+                  "endDate" : 515289600,
+                  "links" : [
+
+                  ],
+                  "companyId" : 7815649286271645,
+                  "name" : "App Intro and Personalization",
+                  "startDate" : 507600000,
+                  "summary" : "Onboarding experience was fully redesigned to improve user engagement. Intro screens got a complete makeover to highlight our value proposition. Personalization feature required complex data structures to efficiently manipulate the entire interest hierarchy."
+                },
+                {
+                  "endDate" : 499651200,
+                  "links" : [
+
+                  ],
+                  "companyId" : 7815649286271645,
+                  "name" : "Account Creation And Subscription Promo",
+                  "startDate" : 491702400,
+                  "summary" : "Simplification of the account creation flow achieved through a centralized integration point across the app. Improved user experience in the sign up flow increased user conversion by 15%."
+                },
+                {
+                  "endDate" : 483753600,
+                  "links" : [
+
+                  ],
+                  "companyId" : 7815649286271645,
+                  "name" : "Annual Subscription",
+                  "startDate" : 478483200,
+                  "summary" : "Monthly subscription plan was expanded to offer an annual plan. This new flow required converting a session-based to token-based authentication mechanism at runtime."
+                },
+                {
+                  "endDate" : 478483200,
+                  "links" : [
+
+                  ],
+                  "companyId" : 7815649286271645,
+                  "name" : "Credit System Extension",
+                  "startDate" : 475977600,
+                  "summary" : "Legacy components handling core business logic related to credit expenditure were successfully extended free of regression issues. Components were first recreated to allow unit testing and subsequently augmented with new user flows."
+                }
+              ],
+              "12566377814859" : [
+                {
+                  "links" : [
+
+                  ],
+                  "companyId" : 12566377814859,
+                  "name" : "In-App Provisioning",
+                  "startDate" : 636249600,
+                  "summary" : "Feature lead of the in-app provisioning integration of all card products with the top three mobile wallets. Responsible of cross-functional collaboration during the requirements, scoping, planing, implementation, testing and rollout phases to ensure successful delivery of the project."
+                },
+                {
+                  "endDate" : 631152000,
+                  "links" : [
+
+                  ],
+                  "companyId" : 12566377814859,
+                  "name" : "Credit ATM Withdrawal",
+                  "startDate" : 628473600,
+                  "summary" : "Credit card functionality expansion to allow ATM withdrawals. Owner of API contract definition, implementation of core network components to set the card pin and experimentation in the card activation flow to measure user conversion."
+                },
+                {
+                  "endDate" : 625881600,
+                  "links" : [
+
+                  ],
+                  "companyId" : 12566377814859,
+                  "name" : "Credit Front-load Funding",
+                  "startDate" : 620611200,
+                  "summary" : "Allow users to fund their credit account in a more streamlined and intuitive way in order to increase member expenditure. Owner of component design to allow customization for all the different flows from multiple entry points in the credit experience. Implementation of UI elements and E2E tests covering all the flow combinations."
+                }
+              ],
+              "29228978866" : [
+                {
+                  "endDate" : 609984000,
+                  "links" : [
+
+                  ],
+                  "companyId" : 29228978866,
+                  "name" : "Vehicle Clustering",
+                  "startDate" : 602208000,
+                  "summary" : "Map simplification by grouping vehicles of the same type to offer a general-to-specific view of the supply controlled by zoom gestures. Map performance improvements of 20% achieved by more efficient map elements updates."
+                },
+                {
+                  "endDate" : 594259200,
+                  "links" : [
+
+                  ],
+                  "companyId" : 29228978866,
+                  "name" : "Server-Driven Map Zones Framework",
+                  "startDate" : 588988800,
+                  "summary" : "Led a cross-functional project to build a fully server-driven framework that defines data and interaction of agnostic zones consumed by mobile clients. A critical project to comply with international city regulations mandating more sophisticated map elements to aid riding behavior. This project positioned the Uber client experience within the top 3 micromobility companies worldwide."
+                },
+                {
+                  "endDate" : 588988800,
+                  "links" : [
+
+                  ],
+                  "companyId" : 29228978866,
+                  "name" : "Map Experience Revamp",
+                  "startDate" : 573091200,
+                  "summary" : "Feature lead of a cross-functional project to devise a unified and renewed map experience. Led the migration of map components to the newest mapping framework which leverages extensible, reusable and testable components. 90% of the new map elements had 80% or more test coverage. Performance improvements in loading and rendering time of 40% and 80% respectively."
+                },
+                {
+                  "endDate" : 560044800,
+                  "links" : [
+
+                  ],
+                  "companyId" : 29228978866,
+                  "name" : "Vehicle Types and Contextual Elements",
+                  "startDate" : 554774400,
+                  "summary" : "Extended the experience to reserve multiple vehicle types allowing seamless integration of 3rd party providers worldwide. Added the first contextual element to the map, a very important step to start collaborating with city regulators. Map performance improvements of 100% by efficient handling of asynchronous events."
+                },
+                {
+                  "endDate" : 565315200,
+                  "links" : [
+
+                  ],
+                  "companyId" : 29228978866,
+                  "name" : "Help Center - Order Platform",
+                  "startDate" : 562723200,
+                  "summary" : "Rewrite of the help center components to integrate with Uber's internal systems. Led the design and implementation of this project, which required a solid understanding of both integrations to come up with unified solution that minimizes the use of old custom components in order to facilitate service deprecation."
+                },
+                {
+                  "endDate" : 549504000,
+                  "links" : [
+
+                  ],
+                  "companyId" : 29228978866,
+                  "name" : "Help Center - Zendesk",
+                  "startDate" : 536457600,
+                  "summary" : "Feature lead of a FAQ system and self-service support ticket system for internal and 3rd party micromobility providers. Careful design and consideration was required to find a solution that would maximize the use of shared components and minimize code duplication across providers."
+                }
+              ]
+            }
+          },
+          "intro" : {
+            "jobTitle" : "Senior Software Engineer iOS",
+            "headline" : "Former NFL Prospect",
+            "networks" : [
+
+            ],
+            "contactOptions" : [
+              {
+                "displayText" : "erickandrade21@gmail.com",
+                "icon" : {
+                  "local" : {
+                    "name" : "envelope.circle.fill",
+                    "isSystemImage" : true
+                  }
+                },
+                "urls" : [
+                  "mailto:215eight@gmail.com",
+                  "https://mail.google.com/?to=215eight@gmail.com"
+                ]
+              },
+              {
+                "icon" : {
+                  "local" : {
+                    "name" : "phone.circle.fill",
+                    "isSystemImage" : true
+                  }
+                },
+                "urls" : [
+                  "tel:+17038968060"
+                ]
+              },
+              {
+                "icon" : {
+                  "local" : {
+                    "name" : "greaterthan.circle.fill",
+                    "isSystemImage" : true
+                  }
+                },
+                "urls" : [
+                  "https://github.com/215eight"
+                ]
+              },
+              {
+                "icon" : {
+                  "local" : {
+                    "name" : "link.circle.fill",
+                    "isSystemImage" : true
+                  }
+                },
+                "urls" : [
+                  "https://www.linkedin.com/in/erickandrade21/"
+                ]
+              },
+              {
+                "icon" : {
+                  "local" : {
+                    "name" : "mappin.circle.fill",
+                    "isSystemImage" : true
+                  }
+                },
+                "urls" : [
+                  "http://maps.apple.com/?ll=37.7749,-122.4194&z=14",
+                  "https://www.google.com/maps/@37.7749,-122.4194,14z"
+                ]
+              }
+            ],
+            "location" : {
+              "street" : "",
+              "city" : "San Francisco",
+              "country" : "",
+              "postalCode" : "",
+              "countryCode" : "",
+              "state" : "California",
+              "stateCode" : "CA"
+            },
+            "name" : "Erick Andrade"
+          },
+          "about" : {
+            "content" : "Creator of the first-ever iOS Uber app to rent JUMP e-bikes around the world and feature lead of the map experience revamp to comply with international regulations.\n\nI would love to be part of a team where I have the opportunity to continue growing my career as software engineer by having an impact beyond the mobile client."
+          },
+          "experience" : {
+            "roles" : [
+              {
+                "title" : "Senior Software Engineer",
+                "company" : {
+                  "contacts" : [
+
+                  ],
+                  "id" : 12566377814859,
+                  "name" : "Chime",
+                  "location" : {
+                    "street" : "",
+                    "city" : "San Francisco",
+                    "country" : "",
+                    "postalCode" : "",
+                    "countryCode" : "",
+                    "state" : "",
+                    "stateCode" : "CA"
+                  }
+                },
+                "team" : "Credit Builder",
+                "startDate" : 617950513,
+                "achievements" : [
+
+                ]
+              },
+              {
+                "endDate" : 610001713,
+                "achievements" : [
+
+                ],
+                "title" : "Senior Software Engineer",
+                "company" : {
+                  "contacts" : [
+
+                  ],
+                  "id" : 29228978866,
+                  "name" : "Uber",
+                  "location" : {
+                    "street" : "",
+                    "city" : "San Francisco",
+                    "country" : "",
+                    "postalCode" : "",
+                    "countryCode" : "",
+                    "state" : "",
+                    "stateCode" : "CA"
+                  }
+                },
+                "team" : "Micromobility",
+                "startDate" : 528508800
+              },
+              {
+                "endDate" : 528508800,
+                "achievements" : [
+
+                ],
+                "title" : "Software Engineer",
+                "company" : {
+                  "contacts" : [
+
+                  ],
+                  "id" : 7815649286271645,
+                  "name" : "Scribd",
+                  "location" : {
+                    "street" : "",
+                    "city" : "San Francisco",
+                    "country" : "",
+                    "postalCode" : "",
+                    "countryCode" : "",
+                    "state" : "",
+                    "stateCode" : "CA"
+                  }
+                },
+                "team" : "Growth",
+                "startDate" : 462758400
+              },
+              {
+                "endDate" : 439084800,
+                "achievements" : [
+
+                ],
+                "title" : "Scrum Master",
+                "company" : {
+                  "contacts" : [
+
+                  ],
+                  "id" : 4281127690189319514,
+                  "name" : "MicroStrategy",
+                  "location" : {
+                    "street" : "",
+                    "city" : "Tysons Corner",
+                    "country" : "",
+                    "postalCode" : "",
+                    "countryCode" : "",
+                    "state" : "",
+                    "stateCode" : "VA"
+                  }
+                },
+                "team" : "Program Management",
+                "startDate" : 302313600
+              },
+              {
+                "endDate" : 302313600,
+                "achievements" : [
+
+                ],
+                "title" : "Software Quality Engineer",
+                "company" : {
+                  "contacts" : [
+
+                  ],
+                  "id" : 4281127690189319514,
+                  "name" : "MicroStrategy",
+                  "location" : {
+                    "street" : "",
+                    "city" : "Tysons Corner",
+                    "country" : "",
+                    "postalCode" : "",
+                    "countryCode" : "",
+                    "state" : "",
+                    "stateCode" : "VA"
+                  }
+                },
+                "team" : "Platform - Clients",
+                "startDate" : 255139200
+              },
+              {
+                "endDate" : 255139200,
+                "achievements" : [
+
+                ],
+                "title" : "Software Consultant",
+                "company" : {
+                  "contacts" : [
+
+                  ],
+                  "id" : -7346479229968790598,
+                  "name" : "Lumina Americas",
+                  "location" : {
+                    "street" : "",
+                    "city" : "Mexico City",
+                    "country" : "",
+                    "postalCode" : "",
+                    "countryCode" : "",
+                    "state" : "",
+                    "stateCode" : "CDMX"
+                  }
+                },
+                "team" : "Consulting",
+                "startDate" : 204940800
+              }
+            ]
+          },
+          "references" : [
+            {
+              "name" : "Sumeet Vaidya",
+              "title" : "Director of Engineering",
+              "contactOptions" : [
+                {
+                  "icon" : {
+                    "local" : {
+                      "name" : "envelope.circle.fill",
+                      "isSystemImage" : true
+                    }
+                  },
+                  "urls" : [
+                    "mailto:suvaidya@gmail.com",
+                    "https://mail.google.com/?to=suvaidya@gmail.com"
+                  ]
+                },
+                {
+                  "icon" : {
+                    "local" : {
+                      "name" : "phone.circle.fill",
+                      "isSystemImage" : true
+                    }
+                  },
+                  "urls" : [
+                    "tel:248-229-2363"
+                  ]
+                }
+              ]
+            },
+            {
+              "name" : "Alex King",
+              "title" : "Product Manager",
+              "contactOptions" : [
+                {
+                  "icon" : {
+                    "local" : {
+                      "name" : "envelope.circle.fill",
+                      "isSystemImage" : true
+                    }
+                  },
+                  "urls" : [
+                    "mailto:akingtoo@gmail.com",
+                    "https://mail.google.com/?to=akingtoo@gmail.com"
+                  ]
+                },
+                {
+                  "icon" : {
+                    "local" : {
+                      "name" : "phone.circle.fill",
+                      "isSystemImage" : true
+                    }
+                  },
+                  "urls" : [
+                    "tel:+15039982539"
+                  ]
+                }
+              ]
+            },
+            {
+              "name" : "Joe Conway",
+              "title" : "Director Of Engineering",
+              "contactOptions" : [
+                {
+                  "icon" : {
+                    "local" : {
+                      "name" : "envelope.circle.fill",
+                      "isSystemImage" : true
+                    }
+                  },
+                  "urls" : [
+                    "mailto:joe@scribd.com",
+                    "https://mail.google.com/?to=joe@scribd.com"
+                  ]
+                },
+                {
+                  "icon" : {
+                    "local" : {
+                      "name" : "phone.circle.fill",
+                      "isSystemImage" : true
+                    }
+                  },
+                  "urls" : [
+                    "tel:+14152835689"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
